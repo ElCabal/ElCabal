@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desarrollador backend C# .NET y SQL Server, con destrezas en TypeScript y Angular. Estoy entusiasmado por la oportunidad de unirme a su equipo y aportar mi pasión por la aplicación de metodologías ágiles y el uso de Git para innovar y mejorar continuamente las soluciones tecnológicas.
+¡Hola! Desarrollador de software especializado en tecnologías como C#, .NET y Angular. Cuento con experiencia en la gestión de bases de datos utilizando SQL Server y en la implementación de control de versiones con GIT. Además, me destaco en el trabajo colaborativo en equipos ágiles, aplicando metodologías como Scrum.
 
 
 ## 🌐 Socials:
